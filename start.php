@@ -41,7 +41,7 @@ $edit = bot('sendMessage',[
                 [['text'=>'Mail Ru: '.$mailru,'callback_data'=>'fgd'],['text'=>'Hotmail: '.$hotmail,'callback_data'=>'ghj']],
 			    [['text'=>"AOL : $aol",'callback_data'=>'fgjjjvf'],['text'=>"GMX : $gmx",'callback_data'=>'gdfgfd']],
 				[['text'=>"Protonmail : $protonmail",'callback_data'=>'fgd'],
-                [['text'=>'متاح✅: '.$true,'callback_data'=>'gj'],['text'=>'مش متاح❌: '.$false,'callback_data'=>'dghkf']],
+                [['text'=>'متاح✅: '.$true,'callback_data'=>'gj'],['text'=>'غير متاح❌: '.$false,'callback_data'=>'dghkf']],
                 [['text'=>'Not Business❌ : '.$NotBussines,'callback_data'=>'dgdge'],['text'=>'Business✅ : '.$false,'callback_data'=>'dghkf']],
             ]
         ])
@@ -91,7 +91,7 @@ foreach ($users as $user) {
 .𖢸 . 𝚃𝙸𝙼𝙴 : ".date("Y")."/".date("n")."/".date("d")." : " . date('g:i') . "\n" . " 
 ━━━━━━━━━━━━
 ↯Tele↯.                     ↯CH↯\n
-:-  @Y_4_V              :-  @TTTPTTTTT",
+:-  @K_8_U              :-  @C_P_8",
                                 
                                 'parse_mode'=>'markdown']);
                                 
@@ -107,7 +107,7 @@ foreach ($users as $user) {
                 [['text'=>'Mail Ru: '.$mailru,'callback_data'=>'fgd'],['text'=>'Hotmail: '.$hotmail,'callback_data'=>'ghj']],
 			    [['text'=>"AOL : $aol",'callback_data'=>'fgjjjvf'],['text'=>"GMX : $gmx",'callback_data'=>'gdfgfd']],
 				[['text'=>"Protonmail : $protonmail",'callback_data'=>'fgd'],
-                [['text'=>'متاح✅: '.$true,'callback_data'=>'gj'],['text'=>'مش متاح❌: '.$false,'callback_data'=>'dghkf']],
+                [['text'=>'متاح✅: '.$true,'callback_data'=>'gj'],['text'=>'غير متاح❌: '.$false,'callback_data'=>'dghkf']],
                 [['text'=>'Not Business❌ : '.$NotBussines,'callback_data'=>'dgdge'],['text'=>'Business✅ : '.$false,'callback_data'=>'dghkf']],
                                         ]
                                     ])
@@ -146,7 +146,7 @@ foreach ($users as $user) {
                 [['text'=>'Mail Ru: '.$mailru,'callback_data'=>'fgd'],['text'=>'Hotmail: '.$hotmail,'callback_data'=>'ghj']],
 			    [['text'=>"AOL : $aol",'callback_data'=>'fgjjjvf'],['text'=>"GMX : $gmx",'callback_data'=>'gdfgfd']],
 				[['text'=>"Protonmail : $protonmail",'callback_data'=>'fgd'],
-                [['text'=>'متاح✅: '.$true,'callback_data'=>'gj'],['text'=>'مش متاح❌: '.$false,'callback_data'=>'dghkf']],
+                [['text'=>'متاح✅: '.$true,'callback_data'=>'gj'],['text'=>'غير متاح❌: '.$false,'callback_data'=>'dghkf']],
                 [['text'=>'Not Business❌ : '.$NotBussines,'callback_data'=>'dgdge'],['text'=>'Business✅ : '.$false,'callback_data'=>'dghkf']],
                 ]
             ])
